@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <router-view/>
+	  首页
+	  <a href="cell.html">点击跳转页面</a>
   </div>
 </template>
 
